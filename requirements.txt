@@ -18,7 +18,8 @@ toml
 typed-ast==1.4.1
 Werkzeug==1.0.1
 wincertstore==0.2
-wrapt==1.11.2tensorboard==2.10.0
+wrapt==1.11.2
+tensorboard==2.10.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.10.0
